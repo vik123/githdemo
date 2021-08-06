@@ -1,3 +1,3 @@
 <?php 
-echo 'Hello World sd';
+echo 'Hello World';
 ?>
